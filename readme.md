@@ -130,3 +130,34 @@ This helps understand *listener behavior, artist evolution,* and how platforms l
 
 ## 💾 Project Structure
 
+📦 Spotify-Analysis/
+├── 📘 Data Cleaning.ipynb
+├── 📗 Spotify Analysis.ipynb
+├── 📄 requirements.txt
+├── 📊 visuals/
+│ ├── duration_trend.png
+│ ├── loudness_trend.png
+│ └── popularity_by_decade.png
+├── 📁 data/
+│ └── spotify_tracks_cleaned.csv
+└── README.md
+
+
+---
+
+## 🧠 Key Findings Summary
+
+- Average **song duration decreased 27%** since 1980.  
+- **Energy and loudness peaked** post-2000; then stabilized.  
+- **Explicit content tripled** since 2010.  
+- **Acousticness sharply declined** — electronic production dominates.  
+- **Popularity steadily increased**, aligning with streaming era.  
+- **High energy ≠ popularity** — lyrical and emotional tone matters more.
+
+---
+
+   Author - Aman Mishra
+   Linkedin- www.linkedin.com/in/amanmishra232005
+
+
+
