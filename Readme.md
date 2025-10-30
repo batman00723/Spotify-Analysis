@@ -9,11 +9,10 @@ By analyzing musical attributes like *energy, danceability, acousticness, loudne
 ## ⚙️ Tech Stack
 | Tool | Purpose |
 |------|----------|
-| **Python (Pandas, NumPy)** | Data cleaning & transformation |
+| **Python (Pandas)** | Data cleaning & transformation |
 | **SQL (SQL Server)** | Querying, grouping, and aggregations |
 | **SQLAlchemy** | Python ↔ SQL connectivity |
 | **Seaborn / Matplotlib / Plotly** | Data visualization |
-| **Streamlit (optional)** | Interactive dashboard |
 | **Jupyter Notebook** | EDA & analysis environment |
 
 ---
