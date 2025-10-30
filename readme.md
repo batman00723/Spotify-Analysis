@@ -92,8 +92,8 @@ This helps understand *listener behavior, artist evolution,* and how platforms l
 | 🧮 Data Analysis | Python, Pandas, NumPy |
 | 📊 Visualization | Seaborn, Matplotlib, Plotly |
 | 🗄️ Database | SQL Server, SQLAlchemy |
-| 🧹 Data Cleaning | Pandas, Regex |
-| 💻 IDEs | Jupyter Notebook, VS Code |
+| 🧹 Data Cleaning | Pandas|
+| 💻 IDEs | Jupyter Notebook  |
 
 ---
 
@@ -131,15 +131,25 @@ This helps understand *listener behavior, artist evolution,* and how platforms l
 ## 💾 Project Structure
 
 📦 Spotify-Analysis/
+
 ├── 📘 Data Cleaning.ipynb
+
 ├── 📗 Spotify Analysis.ipynb
+
 ├── 📄 requirements.txt
+
 ├── 📊 visuals/
+
 │ ├── duration_trend.png
+
 │ ├── loudness_trend.png
+
 │ └── popularity_by_decade.png
+
 ├── 📁 data/
+
 │ └── spotify_tracks_cleaned.csv
+
 └── README.md
 
 
@@ -157,6 +167,7 @@ This helps understand *listener behavior, artist evolution,* and how platforms l
 ---
 
    Author - Aman Mishra
+   
    Linkedin- www.linkedin.com/in/amanmishra232005
 
 
