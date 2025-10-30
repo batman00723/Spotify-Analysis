@@ -67,9 +67,4 @@ By analyzing musical attributes like *energy, danceability, acousticness, loudne
 - Optimize **short-form, high-energy songs** for modern users with shorter attention spans.  
 - Incorporate **explicit track segmentation** for better content curation and ad targeting.
 
----
 
-
-
-# 3. Launch Jupyter Notebook
-jupyter notebook spotify_analysis.ipynb
