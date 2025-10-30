@@ -42,11 +42,9 @@ By analyzing musical attributes like *energy, danceability, acousticness, loudne
 - 🔗 Correlation matrix between core musical features
 
 ### 5️⃣ Visualizations
-- Line charts for temporal trends  
-- Grouped bar charts for key distribution  
+- Line charts for temporal trends   
 - Heatmap for feature correlations  
 - Boxplots for outlier analysis  
-- Interactive (Plotly/Streamlit) versions for dashboard deployment
 
 ---
 
