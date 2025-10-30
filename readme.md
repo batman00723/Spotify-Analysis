@@ -30,9 +30,8 @@ This helps understand *listener behavior, artist evolution,* and how platforms l
 | ⏱️ Unit Conversion | Converted `duration_ms` → `duration_min` for better readability. |
 | 📅 Extract Year | Extracted `release_year` from release date. |
 | 🎚️ Filter Outliers | Removed songs with unrealistic durations (>10 mins). |
-| 🗄️ Storage | Stored cleaned dataset in **SQL Server** and exported a CSV for reproducibility. |
+| 🗄️ Storage | Stored cleaned dataset in **SQL Server**. |
 
-> ✅ The cleaned dataset (`spotify_tracks_cleaned.csv`) is used for all further analysis.
 
 ---
 
@@ -168,7 +167,7 @@ This helps understand *listener behavior, artist evolution,* and how platforms l
 
    Author - Aman Mishra
    
-   Linkedin- www.linkedin.com/in/amanmishra232005
+   LinkedIn- www.linkedin.com/in/amanmishra232005
 
 
 
