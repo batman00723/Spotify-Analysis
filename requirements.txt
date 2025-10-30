@@ -3,5 +3,4 @@ matplotlib
 seaborn
 plotly
 sqlalchemy
-sql server management studio
 jupyter
